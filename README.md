@@ -24,8 +24,7 @@
 <h3><code>farrukh@github ~ $ ./stats.sh</code></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarrukhDev-io&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Farrukh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrukhDev-io&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Farrukh's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarrukhDev-io&theme=tokyonight&hide_border=true&background=0d1117" alt="Farrukh's GitHub Streak Stats" />
 </p>
 
 <br>
