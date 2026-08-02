@@ -49,10 +49,25 @@
 
 <h3><code>farrukh@github ~ $ ./links.sh</code></h3>
 
-<p><b>Frontend Software Engineer 🚀</b></p>
+<p>
+  <b>Frontend Software Engineer 🚀</b> <br/>
+  <i>Crafting scalable web applications, modern UI/UX, and high-performance tools with React & Next.js.</i>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-farrukh--dev.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.farrukh-dev.me)
-[![GitHub](https://img.shields.io/badge/GitHub-FarrukhDev--io-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarrukhDev-io)
+<p align="left">
+  <a href="https://www.farrukh-dev.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-farrukh--dev.me-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/farrukh-jumayev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Farrukh_Jumayev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/FarrukhDjumayev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@FarrukhDjumayev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:contact@farrukh-dev.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <br>
 
