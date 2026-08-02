@@ -1,5 +1,36 @@
 <div align="center">
 
+<h3><code>farrukh@arch ~ $ fastfetch</code></h3>
+
+<pre align="left"><code>
+                  -`                     farrukh@arch
+                 .o+`                    ------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: ASUS TUF Gaming F15 FX506HM_FX506HM (1.0)
+              `+oooooo:                  Kernel: Linux 6.18.41-1-lts
+              -+oooooo+:                 Uptime: 1 hour, 4 mins
+            `/:-:++oooo+:                Packages: 1 (appimage), 973 (pacman)
+           `/++++/+++++++:               Shell: zsh
+          `/++++++++++++++:              Display (NCP004D): 1920x1080 in 16", 144 Hz [Built-in]
+         `/+++ooooooooooooo/`            DE: KDE Plasma 6.7.3
+        ./ooosssso++osssssso+`           WM: KWin (Wayland)
+       .oossssso-````/ossssss+`          WM Theme: plastik
+      -osssssso.      :ssssssso.         Theme: Breeze (Sweet) [Qt], Breeze [GTK3/4]
+     :osssssss/        osssso+++.        Icons: breeze [Qt], breeze-dark [GTK3/4]
+    /ossssssss/        +ssssooo/-        Font: Noto Sans (10pt) [Qt], JetBrains Mono (10pt) [GTK3/4]
+  `/ossssso+/:-        -:/+osssso+-      Cursor: Sweet (24px)
+ `+sso+:-`                 `.-/+oso:     Terminal: ghostty 1.3.1-arch2
+`++:.                           `-/+/    Terminal Font: JetBrainsMono Nerd Font (13pt)
+.`                                 `/    CPU: 11th Gen Intel(R) Core(TM) i7-11800H (16) @ 4.60 GHz
+                                         GPU 1: NVIDIA GeForce RTX 3060 Mobile / Max-Q [Discrete]
+                                         GPU 2: Intel UHD Graphics @ 1.45 GHz [Integrated]
+                                         Memory: 5.04 GiB / 15.34 GiB (33%)
+                                         Swap: 0 B / 7.67 GiB (0%)
+                                         Disk (/): 47.95 GiB / 530.00 GiB (9%) - btrfs
+</code></pre>
+
+<br>
+
 <h3><code>farrukh@github ~ $ whoami</code></h3>
 
 <table>
