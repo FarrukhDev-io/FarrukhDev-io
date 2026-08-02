@@ -66,9 +66,9 @@
 
 <br>
 
-<h3><code>farrukh@github ~ $ ./contributions.sh</code></h3>
+<h3><code>farrukh@github ~ $ ./contributions.sh --3d</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Farrukh's GitHub contribution graph — auto-refreshed daily" />
+<img src="./profile-3d-contrib/profile-night-green.svg" width="860" alt="Farrukh's 3D GitHub contribution graph" />
 
 <br>
 <br>
