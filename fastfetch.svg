@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 582" width="1020" height="582">
+<style>
+    .term {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+        font-size: 14px;
+        fill: #c9d1d9;
+    }
+    .line {
+        opacity: 0;
+        animation: appear 0.1s forwards;
+    }
+    @keyframes appear {
+        to { opacity: 1; }
+    }
+    .l0 { animation-delay: 0.0s; }
+    .l1 { animation-delay: 0.15s; }
+    .l2 { animation-delay: 0.3s; }
+    .l3 { animation-delay: 0.44999999999999996s; }
+    .l4 { animation-delay: 0.6s; }
+    .l5 { animation-delay: 0.75s; }
+    .l6 { animation-delay: 0.8999999999999999s; }
+    .l7 { animation-delay: 1.05s; }
+    .l8 { animation-delay: 1.2s; }
+    .l9 { animation-delay: 1.3499999999999999s; }
+    .l10 { animation-delay: 1.5s; }
+    .l11 { animation-delay: 1.65s; }
+    .l12 { animation-delay: 1.7999999999999998s; }
+    .l13 { animation-delay: 1.95s; }
+    .l14 { animation-delay: 2.1s; }
+    .l15 { animation-delay: 2.25s; }
+    .l16 { animation-delay: 2.4s; }
+    .l17 { animation-delay: 2.55s; }
+    .l18 { animation-delay: 2.6999999999999997s; }
+    .l19 { animation-delay: 2.85s; }
+    .l20 { animation-delay: 3.0s; }
+    .l21 { animation-delay: 3.15s; }
+    .l22 { animation-delay: 3.3s; }
+    .l23 { animation-delay: 3.4499999999999997s; }
+    .l24 { animation-delay: 3.5999999999999996s; }
+    .l25 { animation-delay: 3.75s; }
+    .l26 { animation-delay: 3.9s; }
+    .l27 { animation-delay: 4.05s; }
+    .l28 { animation-delay: 4.2s; }
+</style>
+<rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+<text x="30" y="35" class="term line l0" xml:space="preserve">                  -`                     farrukh@arch</text>
+<text x="30" y="53" class="term line l1" xml:space="preserve">                 .o+`                    ------------</text>
+<text x="30" y="71" class="term line l2" xml:space="preserve">                `ooo/                    OS: Arch Linux x86_64</text>
+<text x="30" y="89" class="term line l3" xml:space="preserve">               `+oooo:                   Host: ASUS TUF Gaming F15 FX506HM_FX506HM (1.0)</text>
+<text x="30" y="107" class="term line l4" xml:space="preserve">              `+oooooo:                  Kernel: Linux 6.18.41-1-lts</text>
+<text x="30" y="125" class="term line l5" xml:space="preserve">              -+oooooo+:                 Uptime: 1 hour, 18 mins</text>
+<text x="30" y="143" class="term line l6" xml:space="preserve">            `/:-:++oooo+:                Packages: 1 (appimage), 973 (pacman)</text>
+<text x="30" y="161" class="term line l7" xml:space="preserve">           `/++++/+++++++:               Shell: make_fastfetch_svg.py</text>
+<text x="30" y="179" class="term line l8" xml:space="preserve">          `/++++++++++++++:              Display (NCP004D): 1920x1080 in 16", 144 Hz [Built-in]</text>
+<text x="30" y="197" class="term line l9" xml:space="preserve">         `/+++ooooooooooooo/`            DE: KDE Plasma 6.7.3</text>
+<text x="30" y="215" class="term line l10" xml:space="preserve">        ./ooosssso++osssssso+`           WM: KWin (Wayland)</text>
+<text x="30" y="233" class="term line l11" xml:space="preserve">       .oossssso-````/ossssss+`          WM Theme: plastik</text>
+<text x="30" y="251" class="term line l12" xml:space="preserve">      -osssssso.      :ssssssso.         Theme: Breeze (Sweet) [Qt], Breeze [GTK3/4]</text>
+<text x="30" y="269" class="term line l13" xml:space="preserve">     :osssssss/        osssso+++.        Icons: breeze [Qt], breeze-dark [GTK3/4]</text>
+<text x="30" y="287" class="term line l14" xml:space="preserve">    /ossssssss/        +ssssooo/-        Font: Noto Sans (10pt) [Qt], JetBrains Mono (10pt) [GTK3/4]</text>
+<text x="30" y="305" class="term line l15" xml:space="preserve">  `/ossssso+/:-        -:/+osssso+-      Cursor: Sweet (24px)</text>
+<text x="30" y="323" class="term line l16" xml:space="preserve"> `+sso+:-`                 `.-/+oso:     Terminal: agy</text>
+<text x="30" y="341" class="term line l17" xml:space="preserve">`++:.                           `-/+/    CPU: 11th Gen Intel(R) Core(TM) i7-11800H (16) @ 4.60 GHz</text>
+<text x="30" y="359" class="term line l18" xml:space="preserve">.`                                 `/    GPU 1: NVIDIA GeForce RTX 3060 Mobile / Max-Q [Discrete]</text>
+<text x="30" y="377" class="term line l19" xml:space="preserve">                                         GPU 2: Intel UHD Graphics @ 1.45 GHz [Integrated]</text>
+<text x="30" y="395" class="term line l20" xml:space="preserve">                                         Memory: 5.30 GiB / 15.34 GiB (35%)</text>
+<text x="30" y="413" class="term line l21" xml:space="preserve">                                         Swap: 0 B / 7.67 GiB (0%)</text>
+<text x="30" y="431" class="term line l22" xml:space="preserve">                                         Disk (/): 47.96 GiB / 530.00 GiB (9%) - btrfs</text>
+<text x="30" y="449" class="term line l23" xml:space="preserve">                                         Local IP (enp0s20f0u3): 172.17.153.122/24</text>
+<text x="30" y="467" class="term line l24" xml:space="preserve">                                         Battery (A32-K55): 8% (5 mins remaining) [Discharging]</text>
+<text x="30" y="485" class="term line l25" xml:space="preserve">                                         Locale: en_US.UTF-8</text>
+<text x="30" y="503" class="term line l26" xml:space="preserve">                                         </text>
+<text x="30" y="521" class="term line l27" xml:space="preserve">                                         [40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m</text>
+<text x="30" y="539" class="term line l28" xml:space="preserve">                                         [5m[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m</text>
+</svg>
