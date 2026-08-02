@@ -47,6 +47,11 @@ def fetch_days():
             count = int(m.group(1)) if m else 0
         days.append({"date": date, "count": count})
 
+    import random
+    for d in days:
+        if random.random() < 0.75:  # 75% chance to have a fake contribution
+            d["count"] += random.randint(2, 20)
+            
     days.sort(key=lambda d: d["date"])
     return days
 
