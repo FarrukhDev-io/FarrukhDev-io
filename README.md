@@ -1,8 +1,10 @@
 <div align="center">
-
 <h3><code>farrukh@arch ~ $ fastfetch</code></h3>
+</div>
 
-<pre align="left"><code>
+<div align="left">
+
+```text
                   -`                     farrukh@arch
                  .o+`                    ------------
                 `ooo/                    OS: Arch Linux x86_64
@@ -27,7 +29,11 @@
                                          Memory: 5.04 GiB / 15.34 GiB (33%)
                                          Swap: 0 B / 7.67 GiB (0%)
                                          Disk (/): 47.95 GiB / 530.00 GiB (9%) - btrfs
-</code></pre>
+```
+
+</div>
+<br>
+<div align="center">
 
 <br>
 
