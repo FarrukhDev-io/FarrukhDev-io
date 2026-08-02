@@ -46,8 +46,9 @@ def main():
         # Escape XML chars
         line = line.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
         y = 35 + i * line_height
-        # Preserve spaces using xml:space
-        svg += f'<text x="30" y="{y}" class="term line l{i}" xml:space="preserve">{line}</text>\n'
+        # Preserve spaces by replacing with non-breaking spaces
+        line = line.replace(" ", "&#160;")
+        svg += f'<text x="30" y="{y}" class="term line l{i}">{line}</text>\n'
 
     svg += '</svg>'
 
