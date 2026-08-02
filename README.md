@@ -61,7 +61,7 @@
 <h3><code>farrukh@github ~ $ ./stats.sh</code></h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarrukhDev-io&theme=tokyonight&hide_border=true&background=0d1117" alt="Farrukh's GitHub Streak Stats" />
+  <img src="./streak.svg" width="860" alt="Farrukh's GitHub Streak Stats" />
 </p>
 
 <br>

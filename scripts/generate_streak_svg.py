@@ -3,27 +3,20 @@
 Works standalone; designed to run in a GitHub Action daily to stay live.
 Usage: python generate_streak_svg.py [username] [output.svg]
 """
-import sys, json, os, datetime, urllib.request
+import sys, json, os, datetime
 
 USER = sys.argv[1] if len(sys.argv) > 1 else "FarrukhDev-io"
 OUT  = sys.argv[2] if len(sys.argv) > 2 else "streak.svg"
 
 def get_data(user):
-    url = f"https://github-contributions-api.jogruber.de/v4/{user}?y=last"
-    try:
-        with urllib.request.urlopen(url, timeout=25) as r:
-            return json.loads(r.read().decode())
-    except Exception as e:
-        # fallback to a local snapshot if the API is unreachable
-        here = os.path.join(os.path.dirname(os.path.abspath(__file__)), "contrib.json")
-        if os.path.exists(here):
-            print("API failed (%s); using local contrib.json" % e)
-            return json.load(open(here))
-        raise
+    here = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/contributions.json")
+    if os.path.exists(here):
+        return json.load(open(here))
+    raise Exception("Local data not found")
 
 data = get_data(USER)
-contribs = data["contributions"]
-total = data["total"]["lastYear"]
+contribs = data.get("days", data.get("contributions", []))
+total = data.get("total_contributions", sum(d.get("count", 0) for d in contribs))
 
 # ---- layout ----
 CELL, GAP, RAD, LEFT, TOP = 13, 3, 2.5, 34, 24
@@ -53,7 +46,9 @@ for name, r in [("Mon",1),("Wed",3),("Fri",5)]:
     labels.append(f'<text class="lbl" x="2" y="{TOP+r*(CELL+GAP)+CELL-2}">{name}</text>')
 
 for i, c in enumerate(contribs):
-    wk, row, lvl = i//7, i%7, c["level"]
+    count = c.get("count", 0)
+    lvl = 0 if count == 0 else min(4, max(1, count // 3))
+    wk, row = i//7, i%7
     x = LEFT + wk*(CELL+GAP); y = TOP + row*(CELL+GAP)
     delay = round((wk + row*0.55)/maxorder * REVEAL, 3)
     cls = "c g" if lvl >= 1 else "c e"
