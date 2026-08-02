@@ -1,4 +1,16 @@
 <div align="center">
+
+<h3><code>farrukh@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Farrukh Jumayev — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="FARRUKH — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<br>
+
 <h3><code>farrukh@arch ~ $ fastfetch</code></h3>
 </div>
 
@@ -34,17 +46,6 @@
 </div>
 <br>
 <div align="center">
-
-<br>
-
-<h3><code>farrukh@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Farrukh Jumayev — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="FARRUKH — 3D ASCII wordmark" /></td>
-</tr>
-</table>
 
 <br>
 
