@@ -4,8 +4,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Farrukh Jumayev — ASCII portrait" /></td>
-<td valign="top"><img src="./fastfetch.svg?v=5" width="550" alt="Animated Fastfetch System Info" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="315" alt="Farrukh Jumayev — ASCII portrait" /></td>
+<td valign="top"><img src="./fastfetch.svg?v=6" width="535" alt="Animated Fastfetch System Info" /></td>
 </tr>
 </table>
 
