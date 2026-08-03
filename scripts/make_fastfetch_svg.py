@@ -38,10 +38,12 @@ def main():
         to {{ opacity: 1; }}
     }}
 '''
-    # Add staggered delays for each line to create a typing/reveal effect
+    # Add staggered delays for each line to sync perfectly with avi-ascii.svg (5.83s total)
+    total_duration = 5.83
+    delay_per_line = total_duration / max(1, len(lines))
     for i in range(len(lines)):
-        delay = i * 0.15 # 150ms per line
-        svg += f"    .l{i} {{ animation-delay: {delay}s; }}\n"
+        delay = i * delay_per_line
+        svg += f"    .l{i} {{ animation-delay: {delay:.3f}s; }}\n"
     
     svg += '''</style>
 <defs>
