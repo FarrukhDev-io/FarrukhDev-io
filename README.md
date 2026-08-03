@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Hi,+I'm+Farrukh+Jumayev;Full+Stack+Software+Engineer;Creator+of+the+Safaar+Platform;I+build+modern+web+applications" alt="Typing Animation" />
 
 
-<h3><code>farrukh@github ~ $ whoami && fastfetch</code></h3>
+
 
 <table>
 <tr>
@@ -14,7 +14,7 @@
 
 <br>
 
-<h3><code>farrukh@github ~ $ ./skills.sh</code></h3>
+
 
 <p align="center">
   <code>— Frontend —</code><br>
@@ -30,14 +30,14 @@
 <br>
 
 
-<h3><code>farrukh@github ~ $ ./contributions.sh</code></h3>
+
 
 <img src="./contrib-heatmap.svg" width="860" alt="Farrukh's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>farrukh@github ~ $ ./activity.sh</code></h3>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarrukhDev-io/FarrukhDev-io/output/github-contribution-grid-snake-dark.svg">
