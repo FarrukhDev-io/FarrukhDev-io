@@ -22,13 +22,12 @@
 
 <h3><code>farrukh@github ~ $ ./skills.sh</code></h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,html,css,vite,git,github,figma,linux&perline=14" />
-  </a>
-</p>
-
-
+<div align="left">
+  <br>
+  <code>Languages&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" height="28" alt="Languages" /> <br><br>
+  <code>Frameworks&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&theme=dark" height="28" alt="Frameworks" /> <br><br>
+  <code>Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=vite,git,github,figma,linux&theme=dark" height="28" alt="Tools" />
+</div>
 
 <br>
 
