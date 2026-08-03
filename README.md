@@ -14,7 +14,7 @@
 <h3><code>farrukh@arch ~ $ fastfetch</code></h3>
 </div>
 
-<img src="./fastfetch.svg?v=2" alt="Animated Fastfetch System Info" />
+<img src="./fastfetch.svg?v=3" alt="Animated Fastfetch System Info" />
 <br>
 <div align="center">
 

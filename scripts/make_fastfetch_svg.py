@@ -1,12 +1,17 @@
-#!/usr/bin/env python3
 import subprocess
 import os
+import re
+
+def strip_ansi(text):
+    ansi_escape = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
+    return ansi_escape.sub('', text)
 
 def main():
     # Get fastfetch output
     try:
         result = subprocess.run(["fastfetch", "--pipe"], capture_output=True, text=True, check=True)
-        lines = result.stdout.rstrip().split("\n")
+        raw_output = strip_ansi(result.stdout)
+        lines = raw_output.rstrip().split("\n")
     except Exception as e:
         print(f"Error running fastfetch: {e}")
         lines = ["Error running fastfetch"]
