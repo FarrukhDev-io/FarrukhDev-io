@@ -44,7 +44,14 @@ def main():
         svg += f"    .l{i} {{ animation-delay: {delay}s; }}\n"
     
     svg += '''</style>
-<rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#111722"/>
+    <stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+</defs>
+<rect width="100%" height="100%" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="calc(100% - 1px)" height="calc(100% - 1px)" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
 '''
     
     for i, line in enumerate(lines):
