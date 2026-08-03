@@ -24,9 +24,11 @@
 
 <div align="left">
   <br>
-  <code>Languages&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" height="28" alt="Languages" /> <br><br>
-  <code>Frameworks&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&theme=dark" height="28" alt="Frameworks" /> <br><br>
-  <code>Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=vite,git,github,figma,linux&theme=dark" height="28" alt="Tools" />
+  <code>Languages&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=ts,js,py,go,java,html,css&theme=dark" height="28" alt="Languages" /> <br><br>
+  <code>Frontend&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark" height="28" alt="Frontend" /> <br><br>
+  <code>Backend&nbsp;&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring&theme=dark" height="28" alt="Backend" /> <br><br>
+  <code>Database&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma&theme=dark" height="28" alt="Database" /> <br><br>
+  <code>DevOps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,nginx&theme=dark" height="28" alt="DevOps" />
 </div>
 
 <br>
