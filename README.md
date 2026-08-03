@@ -52,25 +52,15 @@
 
 <h3><code>farrukh@github ~ $ ./links.sh</code></h3>
 
-<p align="center">
-  <b>Frontend Software Engineer 🚀</b> <br/>
-  <i>Crafting scalable web applications, modern UI/UX, and high-performance tools with React & Next.js.</i>
-</p>
-
-<p align="center">
-  <a href="https://www.farrukh-dev.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-farrukh--dev.me-0d1117?style=flat-square&logo=vercel&logoColor=c9d1d9&labelColor=0d1117&color=161b22" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/farrukh-jumayev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Farrukh_Jumayev-0d1117?style=flat-square&logo=linkedin&logoColor=c9d1d9&labelColor=0d1117&color=161b22" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/FarrukhDjumayev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@FarrukhDjumayev-0d1117?style=flat-square&logo=twitter&logoColor=c9d1d9&labelColor=0d1117&color=161b22" alt="Twitter" />
-  </a>
-  <a href="mailto:contact@farrukh-dev.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk!-0d1117?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=0d1117&color=161b22" alt="Email" />
-  </a>
-</p>
+<div align="left">
+  <br>
+  <code>Role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> Frontend Software Engineer 🚀 <br>
+  <code>Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> Crafting scalable web applications, modern UI/UX, and high-performance tools <br>
+  <code>Portfolio&nbsp;:</code> <a href="https://www.farrukh-dev.me">https://www.farrukh-dev.me</a> <br>
+  <code>LinkedIn&nbsp;&nbsp;:</code> <a href="https://linkedin.com/in/farrukh-jumayev">linkedin.com/in/farrukh-jumayev</a> <br>
+  <code>Twitter&nbsp;&nbsp;&nbsp;:</code> <a href="https://twitter.com/FarrukhDjumayev">@FarrukhDjumayev</a> <br>
+  <code>Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> <a href="mailto:contact@farrukh-dev.me">contact@farrukh-dev.me</a>
+</div>
 
 <br>
 
