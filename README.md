@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=27c93f&center=true&vCenter=true&width=850&lines=Hi,+I'm+Farrukh+Jumayev;Full+Stack+Software+Engineer;Creator+of+the+Safaar+Platform;I+build+modern+web+applications" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Hi,+I'm+Farrukh+Jumayev;Full+Stack+Software+Engineer;Creator+of+the+Safaar+Platform;I+build+modern+web+applications" alt="Typing Animation" />
 
 
 <h3><code>farrukh@github ~ $ whoami && fastfetch</code></h3>
