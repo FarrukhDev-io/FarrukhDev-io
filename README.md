@@ -50,18 +50,4 @@
 <br>
 <br>
 
-<h3><code>farrukh@github ~ $ ./links.sh</code></h3>
-
-<div align="left">
-  <br>
-  <code>Role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> Frontend Software Engineer 🚀 <br>
-  <code>Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> Crafting scalable web applications, modern UI/UX, and high-performance tools <br>
-  <code>Portfolio&nbsp;:</code> <a href="https://www.farrukh-dev.me">https://www.farrukh-dev.me</a> <br>
-  <code>LinkedIn&nbsp;&nbsp;:</code> <a href="https://linkedin.com/in/farrukh-jumayev">linkedin.com/in/farrukh-jumayev</a> <br>
-  <code>Twitter&nbsp;&nbsp;&nbsp;:</code> <a href="https://twitter.com/FarrukhDjumayev">@FarrukhDjumayev</a> <br>
-  <code>Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> <a href="mailto:contact@farrukh-dev.me">contact@farrukh-dev.me</a>
-</div>
-
-<br>
-
 </div>
