@@ -22,14 +22,16 @@
 
 <h3><code>farrukh@github ~ $ ./skills.sh</code></h3>
 
-<div align="left">
-  <br>
-  <code>Languages&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=ts,js,py,go,java,html,css&theme=dark" height="28" alt="Languages" /> <br><br>
-  <code>Frontend&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark" height="28" alt="Frontend" /> <br><br>
-  <code>Backend&nbsp;&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring&theme=dark" height="28" alt="Backend" /> <br><br>
-  <code>Database&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma&theme=dark" height="28" alt="Database" /> <br><br>
-  <code>DevOps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</code> <img align="absmiddle" src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,nginx&theme=dark" height="28" alt="DevOps" />
-</div>
+<p align="center">
+  <code>— Frontend —</code><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,redux,vite,html,css&theme=dark" />
+  <br><br>
+  <code>— Backend & Database —</code><br>
+  <img src="https://skillicons.dev/icons?i=py,go,java,nodejs,express,nestjs,django,spring,postgres,mongodb,redis,mysql,prisma&theme=dark" />
+  <br><br>
+  <code>— DevOps & Tools —</code><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,figma&theme=dark" />
+</p>
 
 <br>
 
