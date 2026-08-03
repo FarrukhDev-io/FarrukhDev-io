@@ -14,21 +14,6 @@
 
 <br>
 
-<h3><code>farrukh@github ~ $ cat about.yml</code></h3>
-
-```yaml
-farrukh:
-  role: "Full Stack Software Engineer"
-  current_project: "Safaar (Hotel Booking Platform)"
-  mission: "Crafting scalable, high-performance web applications and systems."
-  philosophy: "Code is poetry. Architecture is art. Performance is a feature."
-  contact:
-    github: "github.com/FarrukhDev-io"
-    linkedin: "linkedin.com/in/farrukh"
-```
-
-<br>
-
 <h3><code>farrukh@github ~ $ ./skills.sh</code></h3>
 
 <p align="center">
