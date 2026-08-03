@@ -29,20 +29,6 @@
 
 <br>
 
-<h3><code>farrukh@github ~ $ ./stats.sh</code></h3>
-
-<table>
-<tr>
-<td valign="top">
-  <img src="https://gh-readme-stats.vercel.app/api?username=FarrukhDev-io&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=7d8590&icon_color=c9d1d9&border_color=30363d" width="415" alt="GitHub Stats" />
-</td>
-<td valign="top">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=FarrukhDev-io&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=7d8590&icon_color=c9d1d9&border_color=30363d" width="415" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<br>
 
 <h3><code>farrukh@github ~ $ ./contributions.sh</code></h3>
 
