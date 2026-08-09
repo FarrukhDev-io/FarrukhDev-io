@@ -32,7 +32,7 @@
 
 
 
-<img src="./contrib-heatmap.svg" width="860" alt="Farrukh's GitHub contribution graph — auto-refreshed daily" />
+
 
 <br>
 <br>
