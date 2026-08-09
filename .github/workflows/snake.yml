@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: FarrukhDev-io
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#39FF14
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39FF14&color_dots=#161b22,#062b10,#0b5e22,#159c3a,#39FF14
+            dist/github-contribution-grid-snake.svg?color_snake=%2339FF14
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2339FF14&color_dots=%23161b22,%23062b10,%230b5e22,%23159c3a,%2339FF14
             
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
