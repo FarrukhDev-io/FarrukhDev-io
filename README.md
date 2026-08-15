@@ -18,13 +18,13 @@
 
 <p align="center">
   <code>— Frontend —</code><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,redux,vite,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,vite,html,css&theme=dark" />
   <br><br>
   <code>— Backend & Database —</code><br>
-  <img src="https://skillicons.dev/icons?i=py,go,java,nodejs,express,nestjs,django,spring,postgres,mongodb,redis,mysql,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express,postgres&theme=dark" />
   <br><br>
   <code>— DevOps & Tools —</code><br>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,figma,bash&theme=dark" />
 </p>
 
 <br>
