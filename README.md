@@ -14,12 +14,9 @@
 
 <br>
 
-<table>
-<tr>
-<td valign="top" width="40%"><img src="./avi-ascii.svg" width="100%" alt="Farrukh Jumayev — ASCII portrait" /></td>
-<td valign="top" width="60%"><img src="./fastfetch.svg?v=7" width="100%" alt="Animated Fastfetch System Info" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="./fastfetch.svg?v=7" width="80%" alt="Animated Fastfetch System Info" />
+</p>
 
 <br>
 
