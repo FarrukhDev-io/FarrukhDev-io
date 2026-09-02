@@ -14,11 +14,7 @@
 
 <br>
 
-<p align="center">
-  <img src="./fastfetch.svg?v=7" width="80%" alt="Animated Fastfetch System Info" />
-</p>
 
-<br>
 
 <h3>🛠️ Tech Stack & Tools</h3>
 <p align="center">
